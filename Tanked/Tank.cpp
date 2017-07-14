@@ -1,3 +1,6 @@
+// Sample Tank entity code
+//
+
 #include "ui\WinCanvas.h"
 #include "Tank.h"
 
